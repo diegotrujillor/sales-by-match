@@ -6,6 +6,7 @@ namespace sales_by_match
 {
     class Program
     {
+        // https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
         static int SockMerchant(int n, List<int> ar)
         {
             ar.Sort();
